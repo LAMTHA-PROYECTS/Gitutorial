@@ -1,2 +1,2 @@
 # Gitutorial
-Tools for colaborating 
+Tools for colaborating, who is pulling ?
